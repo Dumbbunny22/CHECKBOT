@@ -24,4 +24,4 @@ function CheckClock() {
 
 }
 
-bot.login('Mzk1NjY1MjYyNjQyMzMxNjQ4.DSYeDw.7nnMTuzkRAMGlEk-KUIzBbtalho');
+bot.login(process.env.BOT_TOKEN);
